@@ -1,9 +1,10 @@
-<p align="center"><a href=“README-en.md">English</a> | 简体中文</p>
+<p align="center"><a href=./README-en.md>English</a> | 简体中文</p>
 # Hasher —— macOS 哈希计算小工具
 
 一个用 Swift 编写的 macOS 哈希计算工具，支持 MD5、SHA1、SHA256、SHA512、CRC32，
 可一次读取磁盘同时计算多个算法，多核并行处理，支持中英文界面。
 
+![界面](./Sources/screenshot.jpeg)
 ## 功能特性
 
 - **多算法**：MD5、SHA1、SHA256、SHA512、CRC32，默认勾选 MD5 和 SHA256

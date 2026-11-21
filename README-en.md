@@ -1,8 +1,10 @@
-<p align="center"> English | <a href=“README.md">简体中文</a></p>
+<p align="center"> English | <a href=./README.md>简体中文</a></p>
 # Hasher — a macOS hash tool
 
 A hash calculation tool for macOS written in Swift, supporting MD5, SHA1, SHA256, SHA512, and CRC32.
 It reads the disk once to compute multiple algorithms simultaneously, uses multi-core parallel processing, and supports both Chinese and English interfaces.
+
+![界面](./Sources/screenshot.jpeg)
 
 ## Features
 
