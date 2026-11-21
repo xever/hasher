@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:hasher}",
+            "name": "Debug Hasher",
+            "target": "Hasher",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug Hasher"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:hasher}",
+            "name": "Release Hasher",
+            "target": "Hasher",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release Hasher"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+/* English localization */
+"app.name" = "Hasher";
+
+"button.browse" = "Browse";
+"button.clear" = "Clear";
+"button.copy" = "Copy";
+"button.save" = "Save";
+"button.stop" = "Stop";
+
+"label.algorithm" = "Algorithms:";
+"label.info" = "Info:";
+"label.progress" = "Progress";
+"label.compare" = "Compare";
+"label.version" = "Version";
+"label.modifiedTime" = "Modified";
+
+"button.detect" = "Detect";
+"button.paste" = "Paste";
+"button.switchLanguage" = "Switch Language";
+
+"checkbox.filePath" = "File Path";
+"checkbox.fileSize" = "File Size";
+"checkbox.fileVersion" = "File Version";
+"checkbox.modifiedTime" = "Modified Time";
+"checkbox.uppercase" = "Uppercase";
+
+"algorithm.md5" = "MD5";
+"algorithm.sha1" = "SHA1";
+"algorithm.sha256" = "SHA256";
+"algorithm.sha512" = "SHA512";
+"algorithm.crc32" = "CRC32";
+
+"result.placeholder" = "Drag & drop files or folders here";
+"unit.bytes" = "bytes";
+"browse.message" = "Choose files to hash (multi-select or folders allowed)";
+"compare.placeholder" = "Enter text to search…";
+
+"alert.title" = "Notice";
+"alert.selectAlgorithm" = "Please select at least one algorithm";
+
+"menu.about" = "About Hasher";
+"about.version" = "Version";
+"menu.quit" = "Quit Hasher";
+"menu.edit" = "Edit";
+"menu.undo" = "Undo";
+"menu.redo" = "Redo";
+"menu.cut" = "Cut";
+"menu.copy" = "Copy";
+"menu.paste" = "Paste";
+"menu.selectAll" = "Select All";

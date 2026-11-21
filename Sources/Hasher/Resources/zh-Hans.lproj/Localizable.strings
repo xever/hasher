@@ -1,0 +1,50 @@
+/* 简体中文语言文件 */
+"app.name" = "Hasher";
+
+"button.browse" = "浏览";
+"button.clear" = "清除";
+"button.copy" = "复制";
+"button.save" = "保存";
+"button.stop" = "停止";
+
+"label.algorithm" = "算法：";
+"label.info" = "信息：";
+"label.progress" = "进度";
+"label.compare" = "比较";
+"label.version" = "版本";
+"label.modifiedTime" = "修改时间";
+
+"button.detect" = "检测";
+"button.paste" = "粘贴";
+"button.switchLanguage" = "切换语言";
+
+"checkbox.filePath" = "文件路径";
+"checkbox.fileSize" = "文件大小";
+"checkbox.fileVersion" = "文件版本";
+"checkbox.modifiedTime" = "修改时间";
+"checkbox.uppercase" = "结果大写";
+
+"algorithm.md5" = "MD5";
+"algorithm.sha1" = "SHA1";
+"algorithm.sha256" = "SHA256";
+"algorithm.sha512" = "SHA512";
+"algorithm.crc32" = "CRC32";
+
+"result.placeholder" = "请拖拽文件或文件夹到这里";
+"unit.bytes" = "字节";
+"browse.message" = "选择要计算哈希的文件（可多选，也可选择文件夹）";
+"compare.placeholder" = "输入要搜索的内容…";
+
+"alert.title" = "提示";
+"alert.selectAlgorithm" = "请至少选择一个算法";
+
+"menu.about" = "关于 Hasher";
+"about.version" = "版本";
+"menu.quit" = "退出 Hasher";
+"menu.edit" = "编辑";
+"menu.undo" = "撤销";
+"menu.redo" = "重做";
+"menu.cut" = "剪切";
+"menu.copy" = "复制";
+"menu.paste" = "粘贴";
+"menu.selectAll" = "全选";
